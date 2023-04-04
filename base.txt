@@ -8,4 +8,9 @@
 서현이 충돌 꼭 나잣 !!
 서현 충돌 기원 222
 333
+<<<<<<< HEAD
+444444444444
+=======
 4444444
+>>>>>>> 8cc80bdbdf2c4bbbb7d82bd82851bf8facee26a5
+sdfasdfasdfasdfdsfasdf
